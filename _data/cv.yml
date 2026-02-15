@@ -1,0 +1,34 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Claudio Sole
+    - name: Title
+      value: Founding Data Scientist, PhD
+    - name: Location
+      value: France
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Polytechnique Montréal, Canada
+      description:
+        - Discrete choice modeling and assortment optimization
+        - Supervisors - Sanjay Dominik Jena, Andrea Lodi
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Predictive
+      items:
+        - Discrete choice modeling
+        - Bayesian learning
+        - Low-rank models
+        - Causal inference
+    - title: Prescriptive
+      items:
+        - Assortment optimization
+        - Mixed integer programming
+        - Column generation
+        - Lagrangian relaxation
