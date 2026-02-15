@@ -89,7 +89,7 @@ orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: Claudio-Sole-2185422799 # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 spotify_id: # your spotify id
 scholar_userid: SNqDcMMAAAAJ # your Google Scholar ID
@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Thoughts # blog_name will be displayed in your blog page
+blog_name: # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description:
 permalink: # /blog/:year/:title/
